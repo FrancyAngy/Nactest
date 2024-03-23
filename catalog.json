@@ -20,11 +20,11 @@
 			   "title": "Pepsi slideshow with music",
 			   "description": "Pepsi slideshow with music",
 			   "mediaUrls": {
-				  "it": "https://0b41d0c5-188e-4873-9253-824ad862b19b-00-1su78xldjpnm5.worf.replit.dev/videos/test/it/video.moflex"
+				  "it": "sdmc:/NACVTEST/it/video.moflex"
 			   },
 			   "viewCount": 111,
 			   "imageUrls": {
-				  "default": "https://0b41d0c5-188e-4873-9253-824ad862b19b-00-1su78xldjpnm5.worf.replit.dev/videos/test/bebsi.3dst"
+				  "default": "sdmc:/NACVTEST/thumbnail/pepsi.3dst"
 			   },
 			   "agePrerollVideo": ""
 			}
