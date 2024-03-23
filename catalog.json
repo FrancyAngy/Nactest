@@ -1,0 +1,52 @@
+{
+	"head": {
+		"protocolVersion": "1.0",
+		"apiVersion": "1.0",
+		"playerDevMode": false,
+		"fromCache": true,
+		"serverName": "",
+		"processTime": "3.46ms",
+		"memoryUsage": "1.07 MB",
+		"memoryPeakUsage": "1.12 MB"
+	},
+	"body": [
+		{
+			"setNode": {
+			   "id": "episode:11",
+			   "version": "649f671be9bd0e2bf9fa18d73de07d57",
+			   "type": "episode",
+			   "number": 1,
+			   "ageRate": 0,
+			   "title": "Pepsi slideshow with music",
+			   "description": "Pepsi slideshow with music",
+			   "mediaUrls": {
+				  "it": "https://0b41d0c5-188e-4873-9253-824ad862b19b-00-1su78xldjpnm5.worf.replit.dev/videos/test/it/video.moflex"
+			   },
+			   "viewCount": 111,
+			   "imageUrls": {
+				  "default": "https://0b41d0c5-188e-4873-9253-824ad862b19b-00-1su78xldjpnm5.worf.replit.dev/videos/test/bebsi.3dst"
+			   },
+			   "agePrerollVideo": ""
+			}
+		},
+		{
+			"setNode": {
+				"id": "channel:category1",
+				"type": "channel",
+				"title": "Test videos",
+				"eshopLinks": "",
+				"imageUrls": {
+					"default": "https://dm13bvvnwveun.cloudfront.net/inazuma/thumbs/IE03-thumbnail.3dst"
+				},
+				"children": [
+					{
+						"id": "episode:11",
+						"version": "55d29a3bf5f0ed8b98234f2b88911f4c"
+					}
+				],
+				"version": "7a6f5387cea37c915a15b50a16214cd7"
+			}
+		}
+		
+	]
+}
